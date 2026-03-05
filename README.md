@@ -9,6 +9,8 @@ Built a consolidated analytics solution for a multi-channel e-commerce operation
 
 ---
 
+<img width="1813" height="651" alt="DOM_Dashboard" src="https://github.com/user-attachments/assets/62da56e1-b524-4dfd-bb83-ccda896f0dc3" />
+
 ## Business Context
 
 E-commerce operations running across multiple marketplaces face a common challenge — fragmented data. Revenue, customer behaviour, and product performance exist in silos, making it impossible to answer cross-channel questions without manual consolidation. This project eliminates that gap by building a single source of truth updated by dropping new monthly files into a folder and hitting refresh.
